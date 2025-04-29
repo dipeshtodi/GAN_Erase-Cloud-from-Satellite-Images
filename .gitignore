@@ -1,0 +1,28 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints (large files)
+*.pth
+*.h5
+
+# Streamlit-related files
+*.streamlit/
+
+# Logs
+*.log
+
+# Data files (if any large datasets are used, you can ignore them here)
+data/
+
+# OS-specific files (macOS and Windows)
+.DS_Store
+Thumbs.db
